@@ -1,11 +1,22 @@
 ---
-layout: page
-permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+layout: page
+permalink: "/teaching/"
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**at U of WASHINGTON**
 
-Organize your courses by years, topics, or universities, however you like!
+* Computational Phonology and Neural Networks, *U of Washington,* Wi. 2020
+* Introduction to Linguistic Thought, *U of Washington,* Wi. 2019 & Sp. 2020 
+* Phonology I, *U of Washington,*  Wi. 2019 & Sp. 2020 
+* Phonology II: Advanced Phonology,  *U of Washington,* Sp. 2019 & Sp. 2020 
+* Laboratory Phonology, graduate seminar,  *U of Washington*, Au. 2018
+
+
+**at HARVARD**
+
+*  Linguistic Phonetics (tutorial), *Harvard*, Sp. 2016
+*  Language Evolution (tutorial), *Harvard*, Sp. 2016
+*  Phonology of Poetic Meter (tutorial), *Harvard*, Sp. 2015
+*  Language Evolution (tutorial), *Harvard*, Fa. 2014
