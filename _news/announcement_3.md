@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-08-07 
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+A new paper is out in [*Frontiers in Artificial Intelligence*](https://www.frontiersin.org/articles/10.3389/frai.2020.00044/full). 
