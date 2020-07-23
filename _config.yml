@@ -13,7 +13,7 @@ footer_text: >
 
 url:  # should be empty
 baseurl:  # should be empty
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -48,15 +48,15 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I acknowledge with respect the Ohlone people on whose traditional, ancestral, and unceded land we work and whose historical relationships with that land continue to this day.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-173393077-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -120,7 +120,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Begus
 
   style: apa
   locale: en
@@ -145,7 +145,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
+enable_google_analytics:  true
 enable_katex:             true
 enable_mansory:           true
 enable_progressbar:       true
