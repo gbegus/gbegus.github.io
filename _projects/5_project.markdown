@@ -1,29 +1,23 @@
 ---
 layout: page
-title: Indo-European linguistics
-description: Using quantitative methods for phonetic reconstruction of Proto-Indo-European and its daughter languages
-img: /assets/img/5.jpg
-importance: 6
+title: Phonetics
+description: Phonetics of ejective stops, the ejection effect, Caucasian languages, production-perception loop
+img: /assets/img/4.jpg
+importance: 5
 ---
 
-Combining synchronic and diachronic approaches provides new insights not only for phonological theory and typology, but also for methodology in linguistic reconstruction. Our main research goal within Indo-European historical phonology is to explore applications of phonetic and statistical methodologies to phonological reconstruction. In the paper on Vedic meter, we argue for a new rule that repairs several irregular lines in the Rigveda and can be used as a diagnostic for the reconstruction of etymologically unclear cases. Statistical methods are employed to strengthen philological and comparative methodologies.
+While we know that the directionality of phonetic variation most likely influences observed phonological typology, it is often less clear what the primary causes of different phonetic processes are — articulatory or perceptual. For example, that vowels are phonetically longer before voiced than before voiceless stops is a well-studied phonetic generalization for which several opposing articulatory and perceptual explanations have been proposed. Most studies, however, measure vowel duration only before voiced versus voiceless stops and infer timing relations based on highly correlated parameters, which is why so many opposing explanations exist. We conducted an experiment in Georgian and Mingrelian that measured vowel durations before ejective stops while also controlling for closure and VOT duration. The results suggest that laryngeal features have an effect on preceding vowel duration and that perception is not the primary cause of durational differences in vowels. In a related experiment, we measure aspiration duration in post-aspirated stops as a function of the presence or absence of aspiration of the preceding stop (forthcoming in The Oxford Handbook of Languages of the Caucasus). The data in this experiment also suggest that a common sound change, aspiration dissimilation, is caused primarily by articulatory rather than perceptual factors.
 
-The project on the Vedic pitch accent system, we combine philological and comparative sources with acoustic analyses of present-day Vedic recitation to provide a more accurate reconstruction of the Vedic accent, one of the oldest known accent marking systems.
-
-In Slavic, we propose an explanation for the phonetic development of the pitch accent in two dialects of Kajkavian and Slovenian (published in Zeitschrift für Slawistik and Slovene Linguistic Studies).
-
-
-* [Paper in *JAOS*](https://www.jstor.org/stable/10.7817/jameroriesoci.135.3.541#metadata_info_tab_contents)
-* [Paper in *ZfSl*](https://www.degruyter.com/view/journals/slaw/60/1/article-p33.xml)
-* [Paper in *Proceedings in WeCIEC*](https://gbegus.github.io/assets/pdf/begus_the_phonetics_of_independent_svarita_in_vedic.pdf)
+* [Paper in *JASA*](https://asa.scitation.org/doi/10.1121/1.5007728)
+* [Paper in *The Oxford Handbook of Languages of the Caucasus*](https://ling.auf.net/lingbuzz/004402)
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/4.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    An unnatural process in Tarma Quechua. 
+   Vowel duration in Georgian. 
 </div>
 

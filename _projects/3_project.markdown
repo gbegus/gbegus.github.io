@@ -2,7 +2,7 @@
 layout: page
 title: Unnatural phonology
 description: Identifying, describing, and explaining phonological processes that operate against phonetic processes
-img: /assets/img/3.jpg
+img: /assets/img/2.jpg
 importance: 3
 ---
 
@@ -14,7 +14,7 @@ A new diachronic strategy for explaining unnatural processes is proposed and tes
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/2.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">

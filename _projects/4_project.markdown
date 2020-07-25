@@ -1,29 +1,24 @@
 ---
 layout: page
-title: Indo-European linguistics
-description: Using quantitative methods for phonetic reconstruction of Proto-Indo-European and its daughter languages
-img: /assets/img/5.jpg
-importance: 6
+title: Statistical models of sound change
+description: Modeling probabilities of synchronic alternations based on diachronic factors
+img: /assets/img/3.jpg
+importance: 4
 ---
 
-Combining synchronic and diachronic approaches provides new insights not only for phonological theory and typology, but also for methodology in linguistic reconstruction. Our main research goal within Indo-European historical phonology is to explore applications of phonetic and statistical methodologies to phonological reconstruction. In the paper on Vedic meter, we argue for a new rule that repairs several irregular lines in the Rigveda and can be used as a diagnostic for the reconstruction of etymologically unclear cases. Statistical methods are employed to strengthen philological and comparative methodologies.
-
-The project on the Vedic pitch accent system, we combine philological and comparative sources with acoustic analyses of present-day Vedic recitation to provide a more accurate reconstruction of the Vedic accent, one of the oldest known accent marking systems.
-
-In Slavic, we propose an explanation for the phonetic development of the pitch accent in two dialects of Kajkavian and Slovenian (published in Zeitschrift für Slawistik and Slovene Linguistic Studies).
+We develop a statistical model for deriving typology within the “historical bias” approach. Using a non-parametric bootstrap technique on surveys of sound changes, the model estimates the probabilities of synchronic alternations based on two diachronic factors: the number of sound changes an alternation requires and the respective probabilities of those sound changes. The model not only predicts that unnatural processes will be rare compared to natural processes, but also that some unnatural processes will be more frequent than others. For example, the model predicts that post-nasal devoicing is significantly more frequent than final voicing. Both predictions closely match the observed typology: post-nasal devoicing is attested as a synchronic alternation, whereas final voicing is not. This distribution is predicted neither under the synchronic approach to typology nor under alternative diachronic models.
 
 
-* [Paper in *JAOS*](https://www.jstor.org/stable/10.7817/jameroriesoci.135.3.541#metadata_info_tab_contents)
-* [Paper in *ZfSl*](https://www.degruyter.com/view/journals/slaw/60/1/article-p33.xml)
-* [Paper in *Proceedings in WeCIEC*](https://gbegus.github.io/assets/pdf/begus_the_phonetics_of_independent_svarita_in_vedic.pdf)
+* [Paper under review](https://ling.auf.net/lingbuzz/004299)
+* [Github](https://github.com/gbegus/BSC)
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    An unnatural process in Tarma Quechua. 
+    Bootstrapping sound changes.
 </div>
 
