@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: "<p>Department of Linguistics</p><p>UC Berkeley</p> <p>1203 Dwinelle Hall
-    #2650</p> <p>Berkeley, CA 94720-2650</p> <p>begus@berkekey.edu</p>"
+    #2650</p> <p>Berkeley, CA 94720-2650</p> <p>begus@berkeley.edu</p>"
 news: true
 social: true
 ---
