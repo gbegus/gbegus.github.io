@@ -18,4 +18,4 @@ My research focuses on developing deep learning models for speech data. More spe
 
 In a recent set of papers ([here](https://www.frontiersin.org/articles/10.3389/frai.2020.00044/full) and [here](https://arxiv.org/abs/2006.02951)), I propose that language acquisition can be modeled with Generative Adversarial Networks and propose a technique for exploring the relationship between learned representations and latent space in deep convolutional networks. 
 
-I will be building a lab on speech and computation at Berkeley. Feel free to contact me if you're interested in getting involved with the lab.
+I direct the Berkeley Speech and Computation Lab. Feel free to contact me if you're interested in getting involved with the lab.
