@@ -1,13 +1,13 @@
 ---
 layout: post
 title: A new paper on estimating historical probabilities in sounds systems of world's languages to appear in Phonology
-date: 2020-11-26
+date: 2020-11-25
 inline: false
 ---
 
 Some processes in sound systems of world's laguages are more common, others are rare. Why? 
 
-Due to #cognitive or #historical influences?
+Due to cognitive or historical influences?
 
 The paper proposes a technique to estimate historical influences:
 
