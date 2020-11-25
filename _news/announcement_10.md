@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new paper on estimating historical probabilities in sounds systems of world's languages to appear in *Phonology*
+title: A new paper on estimating historical probabilities in sounds systems of world's languages to appear in Phonology
 date: 2020-11-26
 inline: false
 ---
