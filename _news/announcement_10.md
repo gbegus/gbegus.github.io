@@ -25,7 +25,7 @@ The technique is tested against independent synchronic samples. The estimates of
     </div>
 </div>
 <div class="caption">
-    CNNs in iterative learning result in language change.
+    Synchronic and historical probabilities.
 </div>
 
 The results have direct theoretical implications. Synchronic grammar should ideally derive all observed patterns and at the same time exclude impossible processes. Typological observations often prompt adjustments in grammar design.
