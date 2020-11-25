@@ -5,11 +5,9 @@ date: 2020-11-25
 inline: false
 ---
 
-New preprint out on CNNs, iterative learning & language change. 
+Can we model cultural evolution of language with deep convolutional nets?
 
 [arXiv preprint](https://arxiv.org/abs/2011.05463)
-
-Can we model cultural evolution of language with deep convolutional nets?
 
 The paper proposes a framework for modeling soundchange that combines deep convolutional neural networks and iterative learning.
 

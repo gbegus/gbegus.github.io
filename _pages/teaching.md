@@ -34,7 +34,7 @@ I co-created a study abroad summer program for undergraduate students that explo
 
 **at UC BERKELEY**
 
-* EECS225d: Spoken Language Processing: Human and Computational Models *UC Berkeley*, planned for Fall 2021 (co-taught with Gopala  Anumanchipalli) 
+* EECS225d: Spoken Language Processing: Human and Computational Models, planned for Fall 2021 (co-taught with Gopala  Anumanchipalli) 
 * Advanced Phonology I, planned for Sp. 2020
 
 **at U of WASHINGTON**
