@@ -28,13 +28,13 @@ I am happy to advise any student who reaches out to me (just send me an email).
 
 ## AI and Humanities
 
-I co-created a study abroad summer program for undergraduate students that explores how arts and humanities can address ethical and social implications of Artificial Intelligence: [AI & Humanities in Ljubljana, Slovenia](https://courses.washington.edu/aihum/) (cancelled due to Covid19).  The program's main course aims to explore language as a bridge between the formal and quantitative world of AI on the one hand and humanistic approaches of the new technologies on the other hand. The course introduces basic quantitative skills behind machine learning via language data to students without prior quantitative background.  Why in Ljubljana? The first global [UNESCO center for AI](https://ircai.org/) was recently built in Ljubljana. 
+I co-created a study abroad summer program for undergraduate students that explores how arts and humanities can address ethical and social implications of Artificial Intelligence: [AI & Humanities in Ljubljana, Slovenia](https://courses.washington.edu/aihum/) (postponed due to Covid19).  The program's main course aims to explore language as a bridge between the formal and quantitative world of AI on the one hand and humanistic approaches of the new technologies on the other hand. The course introduces basic quantitative skills behind machine learning via language data to students without prior quantitative background.  Why in Ljubljana? The first global [UNESCO center for AI](https://ircai.org/) was recently built in Ljubljana. 
 
 ## Teaching
 
 **at UC BERKELEY**
 
-* EECS225d: Spoken Language Processing: Human and Computational Models, planned for Fall 2021 (co-taught with Gopala  Anumanchipalli) 
+* EECS225d: Spoken Language Processing: Human and Computational Models, planned for Fall 2021 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
 * Advanced Phonology I, planned for Sp. 2020
 
 **at U of WASHINGTON**
