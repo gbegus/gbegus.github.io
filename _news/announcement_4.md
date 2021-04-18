@@ -19,3 +19,12 @@ We also argue that setting latent featural codes to values well beyond training 
 The proposed architecture allows testing of any property of the data and probing the learned representation behind each latent code. Lexical learning emerges even when trained on the entire TIMIT database.
 
 FiwGAN allows very low dimension vector representation (13 binary latent variables) of lexical items when trained on TIMIT (~6k lexical items, 55k tokens). Approx. 40% of tested codes have a distinct and easily identifiable lexical item (spectrograms below).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/timit.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Generated outputs and human recordings. 
+</div>
