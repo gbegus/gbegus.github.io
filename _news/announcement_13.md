@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New paper in Neural Networks":" deep neural network learns to produce new words
-date: 2020-04-18
+title: New paper in *Neural Networks* - deep neural network learns to produce new words
+date: 2021-04-18
 inline: false
 ---
 
@@ -13,7 +13,7 @@ The paper proposes two neural network architectures (fiwGAN and ciwGAN)  to mode
 The proposed network generates innovative outputs that are linguistically interpretable and highly informative. fiwGAN network trained on *suit* and *dark* outputs innovative *start*, even though it never saw *start* or even a [st] sequence in the training data (audio sample below).
 
 
-<iframe width="520" height="415" src="https://youtube.com/embed/ifxjgmyuRXw" frameborder="0" allowfullscreen></iframe>
+<iframe width="620" height="415" src="https://youtube.com/embed/ifxjgmyuRXw" frameborder="0" allowfullscreen></iframe>
 
 We also argue that setting latent featural codes to values well beyond training range results in almost categorical generation of prototypical lexical items and reveals underlying values of each latent code.
 
@@ -27,5 +27,5 @@ FiwGAN allows very low dimension vector representation (13 binary latent variabl
     </div>
 </div>
 <div class="caption">
-    Generated outputs and human recordings. 
+    FiwGAN trained on the entire TIMIT database generates outputs.
 </div>
