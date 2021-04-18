@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper in *Neural Networks* - deep neural network learns to produce new words
+title: New paper in Neural Networks - a deep neural network learns to produce new words
 date: 2021-04-18
 inline: false
 ---

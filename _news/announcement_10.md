@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A new paper on estimating historical probabilities in sounds systems of world's languages to appear in Phonology
-date: 2020-11-25
+title: A new paper on estimating historical probabilities in sounds systems of world's languages out in Phonology
+date: 2021-04-05
 inline: false
 ---
 
@@ -11,7 +11,7 @@ Due to cognitive or historical influences?
 
 The paper proposes a technique to estimate historical influences:
 
-[Latest version available here](https://ling.auf.net/lingbuzz/004299)
+[Paper in *Phonology*](https://www.cambridge.org/core/journals/phonology/article/estimating-historical-probabilities-of-natural-and-unnatural-processes/CAC83CE585B82836CBC0D3A4BCDF17EB)
 
 Code: [Github](https://github.com/gbegus/BSC)
 
