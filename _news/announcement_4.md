@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New paper in *Neural Networks*: deep neural network learns to produce new words
-date: 2020-04-18
+title: New paper in Neural Networks: deep neural network learns to produce new words
+date: 2021-04-18
 inline: false
 ---
 
