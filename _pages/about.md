@@ -16,7 +16,7 @@ I am an Assistant Professor at the [Department of Linguistics](https://lx.berkel
 
 My research focuses on developing deep learning models for speech data and using well-understood dependencies in speech to interpret internal representations in deep neural networks. More specifically, I build models that learn representations of spoken words from raw audio inputs. I combine machine learning with behavioral experiments and statistical models to better understand how neural networks learn internal representations in speech and how humans learn to speak. I have worked and published on sound systems of various language families such as Indo-European, Caucasian, and Austronesian languages.
 
-In a recent set of papers ([here](https://www.frontiersin.org/articles/10.3389/frai.2020.00044/full) and [here](https://arxiv.org/abs/2006.02951)), I propose that language acquisition can be modeled with Generative Adversarial Networks and propose a technique for exploring the relationship between learned representations and latent space in deep convolutional networks. 
+In a recent set of papers ([here](https://www.frontiersin.org/articles/10.3389/frai.2020.00044/full) and [here](https://www.sciencedirect.com/science/article/pii/S0893608021001052)), I propose that language acquisition can be modeled with Generative Adversarial Networks and propose a technique for exploring the relationship between learned representations and latent space in deep convolutional networks. 
 
 I direct the [Berkeley Speech and Computation Lab](https://twitter.com/BerkeleySCLab). Feel free to contact me if you're interested in getting involved with the lab.
 
