@@ -15,7 +15,7 @@ Recent advances in speech and language technology (such as automated speech reco
 
 Using machine learning models and combining their outputs with decades of scientific work on human language, we will build descriptions of sperm whale communication and try to understand how their complex system of clicks corresponds to meaning.
 
-
+Paper with Jacob Andreas, Gašper Beguš, Michael M. Bronstein, Roee Diamant, Denley Delaney, Shane Gero, Shafi Goldwasser, David F. Gruber, Sarah de Haas, Peter Malkin, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert J. Wood (alphabetically). Illustration: Alex Boersma
 
 
 <div class="row">
