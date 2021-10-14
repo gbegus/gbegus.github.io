@@ -140,31 +140,20 @@ pdf={BegusCaucasian.pdf},
   
 
 
-@misc{begu2020id,
-    title={Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication},
-    author={Ga\v{s}per Begu\v{s}},
-    year={2020},
-    eprint={2009.06110},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    html={https://arxiv.org/abs/2009.06110},
-    abstract={Identity-based patterns for which a computational model needs to output some feature together with a copy of that feature are computationally challenging, but pose no problems to human learners and are common in world's languages. In this paper, we test whether a neural network can learn an identity-based pattern in speech called reduplication. To our knowledge, this is the first attempt to test identity-based patterns in deep convolutional networks trained on raw continuous data. Unlike existing proposals, we test learning in an unsupervised manner and we train the network on raw acoustic data. We use the ciwGAN architecture (Beguš 2020; arXiv:2006.02951) in which learning of meaningful representations in speech emerges from a requirement that the deep convolutional network generates informative data. Based on four generative tests, we argue that a deep convolutional network learns to represent an identity-based pattern in its latent space; by manipulating only two categorical variables in the latent space, we can actively turn an unreduplicated form into a reduplicated form with no other changes to the output in the majority of cases. We also argue that the network extends the identity-based pattern to unobserved data: when reduplication is forced in the output with the proposed technique for latent space manipulation, the network generates reduplicated data (e.g., it copies an [s] e.g. in [si-siju] for [siju] although it never sees any reduplicated forms containing an [s] in the input). Comparison with human outputs of reduplication show a high degree of similarity. Exploration of how meaningful representations of identity-based patterns emerge and how the latent space variables outside of the training range correlate with identity-based patterns in the output has general implications for neural network interpretability.},
-    pdf={begus2009.06110.pdf},}
-    
     
  
     
     
-@misc{begu2020artificial,
-    title={Artificial sound change: Language change and deep convolutional neural networks in iterative learning},
+@misc{begu2020deep,
+    title={Deep sound change: Deep and iterative learning, convolutional neural net- works, and language change},
     author={Ga\v{s}per Begu\v{s}},
-    year={2020},
+    year={2021},
     eprint={2011.05463},
     archivePrefix={arXiv},
     primaryClass={cs.CL},
     html={https://arxiv.org/abs/2011.05463},
-    abstract={This paper proposes a framework for modeling sound change that combines deep convolutional neural networks and iterative learning. Acquisition and transmission of speech across generations is modeled by training generations of Generative Adversarial Networks on unannotated raw speech data. The paper argues that several properties of sound change emerge from the proposed architecture. Generative Adversarial Networks (Goodfellow et al., 2014; Donahue et al., 2019) are uniquely appropriate for modeling language change because the networks are trained on raw unsupervised acoustic data, contain no language-specific devices and, as argued in Beguˇs (2020b), encode phonetic and phonological representations in their latent space and generate innovative data that are linguistically highly informative. Four generations of Generative Adversarial Networks were trained on an allophonic distribution in English where voiceless stops are aspirated word-initially before stressed vowels except if preceded by [s]. The first generation of networks is trained on the relevant sequences in human speech from the TIMIT database. The subsequent generations are not trained on TIMIT, but on generated outputs from the previous generation and thus start learning from each other in an iterative learning task. The initial allophonic distribution is progressively being lost with each generation, likely due to pressures from the global distribution of aspiration in the training data that resembles phonological pressures in natural language. The networks show signs of a gradual shift in phonetic targets characteristic of a gradual phonetic sound change. At endpoints, the networks’ outputs superficially resemble a phonological change — rule loss — driven by imperfect learning. The model features signs of stability, one of the more challenging aspects of computational models of sound change. The results suggest that the proposed Generative Adversarial models of phonetic and phonological acquisition have the potential to yield new insights into the long-standing question of how to model language change.},
-    pdf={begusArtificial.pdf},}
+    abstract={This paper proposes a framework for modeling sound change that combines deep learning and iterative learning. Acquisition and transmission of speech is modeled by training generations of Generative Adversarial Networks (GANs) on unannotated raw speech data. The paper argues that several properties of sound change emerge from the proposed architecture. GANs (Goodfellow et al., 2014; Donahue et al., 2019) are uniquely appropriate for modeling language change because the networks are trained on raw unsupervised acoustic data, contain no language-specific features and, as argued in Beguš (2020), encode phonetic and phonological representations in their latent space and generate linguistically informative innovative data. The first generation of networks is trained on the relevant sequences in human speech from TIMIT. The subsequent generations are not trained on TIMIT, but on generated outputs from the previous generation and thus start learning from each other in an iterative learning task. The initial allophonic distribution is progressively being lost with each generation, likely due to pressures from the global distribution of aspiration in the training data. The networks show signs of a gradual shift in phonetic targets characteristic of a gradual phonetic sound change. At endpoints, the outputs superficially resemble a phonological change -- rule loss.},
+    pdf={begusDeep.pdf},}
     
     
     @article{begusLocal,
@@ -192,12 +181,12 @@ pdf={BegusCaucasian.pdf},
  publisher={OSF Preprints},
  author={Begu\v{s}, Ga\v{s}per},
  year={2021},
- journal={Accepted at \textit{Language}},
+ journal={Accepted at Language},
  month={May},
  pdf={begusCatalysis.pdf},
 }
 
-@misc{begusTACL,
+@article{begusTACL,
     title={Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication},
     author={Ga\v{s}per Begu\v{s}},
     year={2021},
@@ -205,7 +194,38 @@ pdf={BegusCaucasian.pdf},
     archivePrefix={arXiv},
     primaryClass={cs.CL},
     html={https://arxiv.org/abs/2009.06110},
-    journal={accepted at \textit{TACL}},
+    journal={accepted at TACL},
     abstract={Identity-based patterns for which a computational model needs to output some feature together with a copy of that feature are computationally challenging, but pose no problems to human learners and are common in world's languages. In this paper, we test whether a neural network can learn an identity-based pattern in speech called reduplication. To our knowledge, this is the first attempt to test identity-based patterns in deep convolutional networks trained on raw continuous data. Unlike existing proposals, we test learning in an unsupervised manner and we train the network on raw acoustic data. We use the ciwGAN architecture (Beguš 2020; arXiv:2006.02951) in which learning of meaningful representations in speech emerges from a requirement that the deep convolutional network generates informative data. Based on four generative tests, we argue that a deep convolutional network learns to represent an identity-based pattern in its latent space; by manipulating only two categorical variables in the latent space, we can actively turn an unreduplicated form into a reduplicated form with no other changes to the output in the majority of cases. We also argue that the network extends the identity-based pattern to unobserved data: when reduplication is forced in the output with the proposed technique for latent space manipulation, the network generates reduplicated data (e.g., it copies an [s] e.g. in [si-siju] for [siju] although it never sees any reduplicated forms containing an [s] in the input). Comparison with human outputs of reduplication show a high degree of similarity. Exploration of how meaningful representations of identity-based patterns emerge and how the latent space variables outside of the training range correlate with identity-based patterns in the output has general implications for neural network interpretability.},
     pdf={begusTACL.pdf}}
+    
+    
+    
+    
+@article{begusJurgec21,
+ title={Tone, stress, quantity, and quality: prosodic patterns and tonal wug-tests in \v{Z}iri Slovenian},
+ http={http://psyarxiv.com/b7uj5},
+ DOI={10.31234/osf.io/b7uj5},
+ publisher={PsyArXiv},
+ journal={Preprint},
+ author={ Ga\v{s}per Begu\v{s} and Peter Jurgec},
+ year={2021},
+ abstract={The prosodic systems of the world’s languages vary widely in their complexity. In this paper, we report on a prosodic pattern in Žiri Slovenian, which displays an intricate set of interactions between tone, stress, quantity, and vowel quality. Some of the prosodic patterns are well motivated (e.g. the preference of High tone syllables to be stressed) while others lack phonetic or phonological motivation (e.g. the preference of long vowels to fall on the second syllable of a trochaic foot). Žiri also displays a rare case of interaction of prosody with vowel quality. To confirm productivity of the observed patterns, we conducted a wug experiment that tested the dependence of stress on vowel quality, word length, and tone. All in all, this paper brings forth new instances of phonetically unmotivated phonological processes at the suprasegmental level, which appear less discussed than at the segmental level. We also discuss methodological issues arising from artificial experiments on tonal processes.},
+ month={May},
+ pdf={begusJurgecZiri.pdf}
+}
+
+
+
+
+@article{begus2021interpreting,
+      title={Interpreting intermediate convolutional layers in unsupervised acoustic word classification}, 
+      author={Ga\v{s}per Begu\v{s} and Alan Zhou},
+      year={2021},
+      html={https://arxiv.org/abs/2110.02375},
+      journal={Preprint},
+      eprint={2110.02375},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      pdf={begusZhou.pdf}
+}
     
