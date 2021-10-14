@@ -34,8 +34,9 @@ I co-created a study abroad summer program for undergraduate students that explo
 
 **at UC BERKELEY**
 
-* EECS225d: Spoken Language Processing: Human and Computational Models, planned for Fall 2021 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
-* Advanced Phonology I, planned for Sp. 2020
+* EECS 225d: Audio Signal Processing in Humans and Machines, Fall 2021 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
+* LING 290e: Deep Phonology: Deep Learning and Phonology (seminar), Fall 2021 
+* Advanced Phonology I, Sp. 2020
 
 **at U of WASHINGTON**
 
