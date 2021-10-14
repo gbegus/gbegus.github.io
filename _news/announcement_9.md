@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-11-24
+date: 2021-10-10
 inline: true
 ---
 
-I gave three invited talks recently: at [UCSC Phlunch](https://whascling.sites.ucsc.edu/2020/11/16/begus-in-phlunch/), at [UC Davis Phon Lab](https://lx.berkeley.edu/news/beguš-speaks-uc-davis-phonlab) and at [ASEF](https://www.eventbrite.com/e/gasper-begus-phd-kako-se-umetna-inteligenca-uci-govoriti-tickets-125505076061).
+Excited to announce that I'll give an invited talk at [SIGMORPHON](https://sigmorphon.github.io) and at CRNS/Sorbonne Nouvelle; I recently gave a colloquium talk at USC.
