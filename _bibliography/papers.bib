@@ -187,19 +187,25 @@ pdf={BegusCaucasian.pdf},
  pdf={begusCatalysis.pdf},
 }
 
+
 @article{begusTACL,
-    title={Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication},
-    author={Ga\v{s}per Begu\v{s}},
-    year={2021},
-    eprint={2009.06110},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    html={https://arxiv.org/abs/2009.06110},
-    journal={Accepted at TACL},
-    abstract={Identity-based patterns for which a computational model needs to output some feature together with a copy of that feature are computationally challenging, but pose no problems to human learners and are common in world's languages. In this paper, we test whether a neural network can learn an identity-based pattern in speech called reduplication. To our knowledge, this is the first attempt to test identity-based patterns in deep convolutional networks trained on raw continuous data. Unlike existing proposals, we test learning in an unsupervised manner and we train the network on raw acoustic data. We use the ciwGAN architecture (Beguš 2020; arXiv:2006.02951) in which learning of meaningful representations in speech emerges from a requirement that the deep convolutional network generates informative data. Based on four generative tests, we argue that a deep convolutional network learns to represent an identity-based pattern in its latent space; by manipulating only two categorical variables in the latent space, we can actively turn an unreduplicated form into a reduplicated form with no other changes to the output in the majority of cases. We also argue that the network extends the identity-based pattern to unobserved data: when reduplication is forced in the output with the proposed technique for latent space manipulation, the network generates reduplicated data (e.g., it copies an [s] e.g. in [si-siju] for [siju] although it never sees any reduplicated forms containing an [s] in the input). Comparison with human outputs of reduplication show a high degree of similarity. Exploration of how meaningful representations of identity-based patterns emerge and how the latent space variables outside of the training range correlate with identity-based patterns in the output has general implications for neural network interpretability.},
-    pdf={begusTACL.pdf}}
-    
-    
+    author = {Begu\v{s}, Ga\v{s}per},
+    title = "{Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {9},
+    pages = {1196-1212},
+    year = {2021},
+    month = {10},
+    abstract = "{This paper models unsupervised learning of an identity-based pattern (or copying) in speech called reduplication from raw continuous data with deep convolutional neural networks. We use the ciwGAN architecture (Beguš, 2021a) in which learning of meaningful representations in speech emerges from a requirement that the CNNs generate informative data. We propose a technique to wug-test CNNs trained on speech and, based on four generative tests, argue that the network learns to represent an identity-based pattern in its latent space. By manipulating only two categorical variables in the latent space, we can actively turn an unreduplicated form into a reduplicated form with no other substantial changes to the output in the majority of cases. We also argue that the network extends the identity-based pattern to unobserved data. Exploration of how meaningful representations of identity-based patterns emerge in CNNs and how the latent space variables outside of the training range correlate with identity-based patterns in the output has general implications for neural network interpretability.}",
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00421},
+    url = {https://doi.org/10.1162/tacl\_a\_00421},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00421/1970956/tacl\_a\_00421.pdf},
+        pdf={begusTACL.pdf},
+        html={https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00421/107834/Identity-Based-Patterns-in-Deep-Convolutional},
+}
+
+
     
     
 @article{begusJurgec21,
