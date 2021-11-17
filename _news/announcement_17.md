@@ -10,4 +10,4 @@ We're announcing the **Deep Phonology Tool**! You can now train your own deep ne
 
 We opened up our GPUs. If you have a well defined project, submit a request here:
 
-https://github.com/gbegus/DeepPhonologyTool/
+[**github.com/gbegus/DeepPhonologyTool/**](https://github.com/gbegus/DeepPhonologyTool/)
