@@ -4,7 +4,15 @@ title: I will present my TACL paper on reduplication at EMNLP 2021.
 date: 2021-10-14
 inline: false
 ---
-*Paper accepted at TACL:* [link](https://arxiv.org/abs/2006.02951)
+*Paper in TACL:* [link](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00421/107834/Identity-Based-Patterns-in-Deep-Convolutional)
+
+**Check this video**: 
+
+<iframe width="620" height="415" src="https://youtube.com/embed/YV6KBZWqJq4" frameborder="0" allowfullscreen></iframe>
+
+**Video of the ENMNLP talk**: [link](https://underline.io/lecture/38202-identity-based-patterns-in-deep-convolutional-networks-generative-adversarial-phonology-and-reduplication)
+
+## Paper summary
 
 We train a ciwGAN model on reduplication in speech (a syllable [pa] gets copied, e.g. [para] -> [pa-para]). The network learns to encode an identity-based pattern in its latent space & learns to apply it to unobserved data.
 
