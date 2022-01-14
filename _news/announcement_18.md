@@ -26,7 +26,7 @@ Any other acoustic property that results in a phonological contrast can be teste
     </div>
 </div>
 <div class="caption">
-    Project CETI. Illustration: Alex Boersma
+    Internal convolutional layers of the Discriminator. 
 </div>
 
 
