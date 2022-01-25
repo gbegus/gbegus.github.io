@@ -17,7 +17,7 @@ Paper: [arXiv (accepted to ICASSP 2022)](https://arxiv.org/abs/2110.02375)
     </div>
 </div>
 <div class="caption">
-    Internal convolutional layers of the Discriminator. 
+    Shapes of words in intermediate convolutional layers.
 </div>
 
 
