@@ -7,7 +7,7 @@ nav: true
 
 ## Academic leadership
 
-I currently serve as the College Principal of Bowles Hall Residential College, the oldest residential college in the United States and the only residential college at UC Berkeley. In this administrative and academic leadership position, I lead an undergraduate college with 188 students and two additional faculty members (the Dean of Students and the Program Director), several undergraduate fellows, class representatives, and administrative staff. I am committed to creating a welcoming multi-generational and multi-faceted community in which every student feels supported and grows academically, professionally, and personally.
+I currently serve as the [College Principal](https://www.bowleshall.org/hall-staff) of Bowles Hall Residential College, the oldest residential college in the United States and the only residential college at UC Berkeley. In this administrative and academic leadership position, I lead an undergraduate college with 188 students and two additional faculty members (the Dean of Students and the Program Director), several undergraduate fellows, class representatives, and administrative staff. I am committed to creating a welcoming multi-generational and multi-faceted community in which every student feels supported and grows academically, professionally, and personally.
 
 In graduate school, I served as a Resident Tutor in [Mather House](https://mather.harvard.edu). [Resident tutors](https://dso.college.harvard.edu/become-proctor-or-tutor) at Harvard are graduate or post-doctoral students who live in the twelve Harvard dorms
 and work closely with undergraduate students on their academic, professional, and personal development.

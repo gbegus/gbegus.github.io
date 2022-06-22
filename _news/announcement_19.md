@@ -1,15 +1,19 @@
 ---
 layout: post
-title: A paper accepted to ICASSP 2022
+title: A paper appears in ICASSP 2022
 date: 2022-01-23
 inline: false
 ---
 
-Our paper with Alan Zhou (undergraduate student at UC Berkeley) got accepted to [ICASSP 2022](https://2022.ieeeicassp.org).
+Our paper with Alan Zhou (undergraduate student at UC Berkeley) appeared in [ICASSP 2022](https://ieeexplore.ieee.org/document/9746849).
 
 We propose a technique to infer values and shapes of words in convolutional layers of unsupervised classifiers. It can help detect where in the network phone contrasts fail to get encoded. 
 
-Paper: [arXiv (accepted to ICASSP 2022)](https://arxiv.org/abs/2110.02375)
+Paper: [ICASSP 2022](https://ieeexplore.ieee.org/document/9746849)
+
+
+<iframe width="640" height="415" src="https://youtube.com/embed/iOibJHa3WDg" frameborder="0" allowfullscreen></iframe>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
