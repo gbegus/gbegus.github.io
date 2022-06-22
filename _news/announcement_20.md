@@ -13,9 +13,7 @@ One important finding: binary codes encode holistic (lexical) info, individual b
 
 Paper: [arXiv](https://arxiv.org/abs/2203.11476)
 
-<div class="row">
-<iframe width="640" height="415" src="https://youtube.com/embed/iOibJHa3WDg" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
