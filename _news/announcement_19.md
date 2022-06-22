@@ -11,9 +11,9 @@ We propose a technique to infer values and shapes of words in convolutional laye
 
 Paper: [ICASSP 2022](https://ieeexplore.ieee.org/document/9746849)
 
-
+<div class="row">
 <iframe width="640" height="415" src="https://youtube.com/embed/iOibJHa3WDg" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
