@@ -5,16 +5,21 @@ permalink: "/teaching/"
 nav: true
 ---
 
-## Advising
+## Academic leadership
 
-Advising is one of the most important aspects of academic life. 
+I currently serve as the College Principal of Bowles Hall Residential College, the oldest residential college in the United States and the only residential college at UC Berkeley. In this administrative and academic leadership position, I lead an undergraduate college with 188 students and two additional faculty members (the Dean of Students and the Program Director), several undergraduate fellows, class representatives, and administrative staff. I am committed to creating a welcoming multi-generational and multi-faceted community in which every student feels supported and grows academically, professionally, and personally.
 
 In graduate school, I served as a Resident Tutor in [Mather House](https://mather.harvard.edu). [Resident tutors](https://dso.college.harvard.edu/become-proctor-or-tutor) at Harvard are graduate or post-doctoral students who live in the twelve Harvard dorms
 and work closely with undergraduate students on their academic, professional, and personal development.
 The mission of resident tutors is to help create a safe and inclusive environment where every student can
 feel a sense of belonging.
 
-I also served as a [Sophomore Advising Coordinator](https://advising.college.harvard.edu/sophomore-advising-0) in Mather House, Harvard College. I coordinated the advising process for 120 sophomores in [Mather House](https://mather.harvard.edu), led training for 28 sophomore advisers (graduate students and faculty) in the house, served as a liaison between the Advising Programs Office and advisers, organized advising events and workshops, and consulted on the advising process with university officials. I co-coordinated a pilot project to welcome incoming sophomore students into the house community. The project later became a model for other houses at Harvard. 
+
+## Advising
+
+Advising is one of the most important aspects of academic life.
+
+I served as a [Sophomore Advising Coordinator](https://advising.college.harvard.edu/sophomore-advising-0) in Mather House, Harvard College. I coordinated the advising process for 120 sophomores in [Mather House](https://mather.harvard.edu), led training for 28 sophomore advisers (graduate students and faculty) in the house, served as a liaison between the Advising Programs Office and advisers, organized advising events and workshops, and consulted on the advising process with university officials. I co-coordinated a pilot project to welcome incoming sophomore students into the house community. The project later became a model for other houses at Harvard. 
 
 As a Fellowships Tutor, I advised undergraduate students on applications to post-graduate fellowships (Rhodes, Marshall, Fulbright). I evaluated the applications to Rhodes and Marshall fellowships at the college level. 
 
@@ -36,7 +41,8 @@ I co-created a study abroad summer program for undergraduate students that explo
 
 * EECS 225d: Audio Signal Processing in Humans and Machines, Fall 2021 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
 * LING 290e: Deep Phonology: Deep Learning and Phonology (seminar), Fall 2021 
-* Advanced Phonology I, Sp. 2020
+* Ling 111: Phonology I, Sp. 2022
+* Ling 211a: Advanced Phonology I, Sp. 2020
 
 **at U of WASHINGTON**
 
