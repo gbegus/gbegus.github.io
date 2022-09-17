@@ -240,21 +240,6 @@ html= {https://www.sciencedirect.com/science/article/pii/S0885230821000516},
 
 
 
-
-
-@article{begusZhouModeling,
-      title={Modeling speech recognition and synthesis simultaneously: Encoding and decoding lexical and sublexical semantic information into speech with no direct access to speech data}, 
-      author={Ga\v{s}per Begu\v{s} and Alan Zhou},
-      year={2022},
-      abstract={Human speakers encode information into raw speech which is then decoded by the listeners. This complex relationship between encoding (production) and decoding (perception) is often modeled separately. Here, we test how decoding of lexical and sublexical semantic information can emerge automatically from raw speech in unsupervised generative deep convolutional networks that combine both the production and perception principle. We introduce, to our knowledge, the most challenging objective in unsupervised lexical learning: an unsupervised network that must learn to assign unique representations for lexical items with no direct access to training data. We train several models (ciwGAN and fiwGAN by [1]) and test how the networks classify raw acoustic lexical items in the unobserved test data. Strong evidence in favor of lexical learning emerges. The architecture that combines the production and perception principles is thus able to learn to decode unique information from raw acoustic data in an unsupervised manner without ever accessing real training data. We propose a technique to explore lexical and sublexical learned representations in the classifier network. The results bear implications for both unsupervised speech synthesis and recognition as well as for unsupervised semantic modeling as language models increasingly bypass text and operate from raw acoustics.},
-      html={https://arxiv.org/abs/2203.11476},
-      journal={Accepted to Interspeech 2022},
-      eprint={2203.11476},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      pdf={begusZhouModeling.pdf}
-}
-
 @article{begusZhouInterpretingCNN,
   doi = {10.48550/ARXIV.2104.09489},
  html = {https://arxiv.org/abs/2104.09489},
@@ -298,6 +283,18 @@ pdf={iscience.pdf},
   abstract={Understanding how deep convolutional neural networks classify data has been subject to extensive research. This paper proposes a technique to visualize and interpret intermediate layers of unsupervised deep convolutional networks by averaging over individual feature maps in each convolutional layer and inferring underlying distributions of words with non-linear regression techniques. A GAN-based architecture (ciwGAN [1]) that includes a Generator, a Discriminator, and a classifier was trained on unlabeled sliced lexical items from TIMIT. The training process results in a deep convolutional network that learns to classify words into discrete classes only from the requirement of the Generator to output informative data. This classifier network has no access to the training data – only to the generated data. We propose a technique to visualize individual convolutional layers in the classifier that yields highly informative time-series data for each convolutional layer and apply it to unobserved test data. Using non-linear regression, we infer underlying distributions for each word which allows us to analyze both absolute values and shapes of individual words at different convolutional layers, as well as perform hypothesis testing on their acoustic properties. The technique also allows us to test individual phone contrasts and how they are represented at each layer.}
   }
     
+    
+@inproceedings{begus22_interspeech,
+  author={Ga\v{s}per Begu\v{s} and Alan Zhou},
+  title={{Modeling speech recognition and synthesis simultaneously: Encoding and decoding lexical and sublexical semantic information into speech with no direct access to speech data}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={5298--5302},
+  doi={10.21437/Interspeech.2022-11219},
+  abstract={Human speakers encode information into raw speech which is then decoded by the listeners. This complex relationship between encoding (production) and decoding (perception) is often modeled separately. Here, we test how encoding and decoding of lexical semantic information can emerge automatically from raw speech in unsupervised generative deep convolutional networks that combine the production and perception principles of speech. We introduce, to our knowledge, the most challenging objective in unsupervised lexical learning: a network that must learn unique representations for lexical items with no direct access to training data. We train several models (ciwGAN and fiwGAN [1]) and test how the networks classify acoustic lexical items in unobserved test data. Strong evidence in favor of lexical learning and a causal relationship between latent codes and meaningful sublexical units emerge. The architecture that combines the production and perception principles is thus able to learn to decode unique information from raw acoustic data without accessing real training data directly. We propose a technique to explore lexical (holistic) and sublexical (featural) learned representations in the classifier network. The results bear implications for unsupervised speech technology, as well as for unsupervised semantic modeling as language models increasingly bypass text and operate from raw acoustics.},
+  html={https://www.isca-speech.org/archive/interspeech_2022/begus22_interspeech.html},
+  pdf={begusZhouInterspeech.pdf}
+}
     
     
 @article {begusZhouZhao22,
