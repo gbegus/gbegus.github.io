@@ -50,6 +50,8 @@ I co-created a study abroad summer program for undergraduate students that explo
 
 **at UC BERKELEY**
 
+
+* EECS 225d: Audio Signal Processing in Humans and Machines, Fall 2022 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
 * EECS 225d: Audio Signal Processing in Humans and Machines, Fall 2021 (co-taught at Berkeley CS with Gopala  Anumanchipalli) 
 * LING 290e: Deep Phonology: Deep Learning and Phonology (seminar), Fall 2021 
 * Ling 111: Phonology I, Sp. 2022
