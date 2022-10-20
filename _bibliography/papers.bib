@@ -239,8 +239,21 @@ html= {https://www.sciencedirect.com/science/article/pii/S0885230821000516},
 
 
 
+@ARTICLE{begusZhouInterpretingCNN,
+  author={Ga\v{s}per Begu\v{s} and  Alan Zhou},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Interpreting Intermediate Convolutional Layers of Generative CNNs Trained on Waveforms}, 
+  year={2022},
+  volume={30},
+  number={},
+  pages={3214-3229},
+  doi={10.1109/TASLP.2022.3209938},
+  abstract={This paper presents a technique to interpret and visualize intermediate layers in generative CNNs trained on raw speech data in an unsupervised manner. We argue that averaging over feature maps after ReLU activation in each transpose convolutional layer yields interpretable time-series data. This technique allows for acoustic analysis of intermediate layers that parallels the acoustic analysis of human speech data: we can extract F0, intensity, duration, formants, and other acoustic properties from intermediate layers in order to test where and how CNNs encode various types of information. We further combine this technique with linear interpolation of a model's latent space to show a causal relationship between individual variables in the latent space and activations in a model's intermediate convolutional layers. In particular, observing the causal effect between linear interpolation and the resulting changes in intermediate layers can reveal how individual latent variables get transformed into spikes in activation in intermediate layers. We train and probe internal representations of two models -- a bare WaveGAN architecture and a ciwGAN extension which forces the Generator to output informative data and results in the emergence of linguistically meaningful representations. Interpretation and visualization is performed for three basic acoustic properties of speech: periodic vibration (corresponding to vowels), aperiodic noise vibration (corresponding to fricatives), and silence (corresponding to stops). The proposal also allows testing of higher-level morphophonological alternations such as reduplication (copying). In short, using the proposed technique, we can analyze how linguistically meaningful units in speech get encoded in each convolutional layer of a generative neural network.},
+  html={https://doi.org/10.1109/TASLP.2022.3209938},
+  pdf={begusZhouInterpretingCNN.pdf}
+  }
 
-@article{begusZhouInterpretingCNN,
+@article{,
   doi = {10.48550/ARXIV.2104.09489},
  html = {https://arxiv.org/abs/2104.09489},
   author = {Ga\v{s}per Begu\v{s} and Zhou, Alan},
