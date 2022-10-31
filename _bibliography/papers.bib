@@ -156,6 +156,25 @@ pdf={BegusCaucasian.pdf},
     abstract={This paper proposes a framework for modeling sound change that combines deep learning and iterative learning. Acquisition and transmission of speech is modeled by training generations of Generative Adversarial Networks (GANs) on unannotated raw speech data. The paper argues that several properties of sound change emerge from the proposed architecture. GANs (Goodfellow et al., 2014; Donahue et al., 2019) are uniquely appropriate for modeling language change because the networks are trained on raw unsupervised acoustic data, contain no language-specific features and, as argued in Beguš (2020), encode phonetic and phonological representations in their latent space and generate linguistically informative innovative data. The first generation of networks is trained on the relevant sequences in human speech from TIMIT. The subsequent generations are not trained on TIMIT, but on generated outputs from the previous generation and thus start learning from each other in an iterative learning task. The initial allophonic distribution is progressively being lost with each generation, likely due to pressures from the global distribution of aspiration in the training data. The networks show signs of a gradual shift in phonetic targets characteristic of a gradual phonetic sound change. At endpoints, the outputs superficially resemble a phonological change -- rule loss.},
     pdf={begusDeep.pdf},}
     
+    
+ @article{begusetalArticulationGAN,
+  doi = {10.48550/ARXIV.2210.15173},
+  abstract={Generative deep neural networks are widely used for speech synthesis, but most existing models directly generate waveforms or spectral outputs. Humans, however, produce speech by controlling articulators, which results in the production of speech sounds through physical properties of sound propagation. We propose a new unsupervised generative model of speech production/synthesis that includes articulatory representations and thus more closely mimics human speech production. We introduce the Articulatory Generator to the Generative Adversarial Network paradigm. The Articulatory Generator needs to learn to generate articulatory representations (electromagnetic articulography or EMA) in a fully unsupervised manner without ever accessing EMA data. A separate pre-trained physical model (ema2wav) then transforms the generated EMA representations to speech waveforms, which get sent to the Discriminator for evaluation. Articulatory analysis of the generated EMA representations suggests that the network learns to control articulators in a manner that closely follows human articulators during speech production. Acoustic analysis of the outputs suggest that the network learns to generate words that are part of training data as well as novel innovative words that are absent from training data. Our proposed architecture thus allows modeling of articulatory learning with deep neural networks from raw audio inputs in a fully unsupervised manner. We additionally discuss implications of articulatory representations for cognitive models of human language and speech technology in general.},
+  url = {https://arxiv.org/abs/2210.15173},
+html = {https://arxiv.org/abs/2210.15173},
+  author = {Ga\v{s}per Begu\v{s} and  Alan Zhou and  Peter Wu and Gopala K. Anumanchipalli},
+  
+  keywords = {Sound (cs.SD), Artificial Intelligence (cs.AI), Computation and Language (cs.CL), Audio and Speech Processing (eess.AS), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  
+  title = {Articulation GAN: Unsupervised modeling of articulatory learning},
+  
+  journal = {arXiv},
+  
+  year = {2022},
+  pdf={BegusetalArticulationGAN.pdf},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}   
+    
 @article{begusLocal,
 title = {Local and non-local dependency learning and emergence of rule-like representations in speech data by deep convolutional generative adversarial networks},
 journal = {Computer Speech & Language},
